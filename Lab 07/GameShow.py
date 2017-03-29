@@ -1,4 +1,4 @@
-# Made by Jasque Saydyk and Alex Carpentien
+# Made by Jasque Saydyk and Alex Carpentieri
 # Lab 07 - Game Show
 # Section 2, Mar. 25, 2017
 # Description - Creates a series of methods that create a
